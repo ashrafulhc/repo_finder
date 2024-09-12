@@ -27,8 +27,8 @@ If Flutter is not installed, follow the [official installation guide](https://fl
 Clone the project from the repository:
 
 ```bash
-git clone git@github.com:your_project_repo.git
-cd your_project
+git clone git@github.com:ashrafulhc/repo_finder.git
+cd repo_finder
 ```
 
 ### Install Dependencies
